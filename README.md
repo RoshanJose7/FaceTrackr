@@ -1,8 +1,8 @@
-# Attendence Marker
+# FaceTrackr
 
-- An Attendence Marker app using OpenCV
+Presenting FaceTrackr: Your Face Recognition Attendance Tracker! Seamlessly mark user check-ins and check-outs with accurate face recognition technology. Streamline attendance management with FaceTrackr! 👤📅 #FaceTrackr #AttendanceTracker #FaceRecognition
 
-## File Structure
+# File Structure
 
 - attendence_images
   add all your student images here
